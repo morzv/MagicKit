@@ -1,0 +1,3 @@
+[submodule "Carthage/Checkouts/Logger"]
+	path = Carthage/Checkouts/Logger
+	url = https://github.com/morzv/Logger.git
